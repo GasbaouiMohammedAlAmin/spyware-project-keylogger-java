@@ -1,5 +1,5 @@
 # spyware-project-keylogger-java for any exploitation system
-This spyware for educutional purpose , for that i am not  responsible for   any bad use of this app.  this spywar takes a form of keylogger ,it collects all keys strokes of target  ,Screenshot local ip , public ip in addition into a link the gives you more information about the target like contry , city laltitude , longitude ,isp , region name ,time zone and zip. 
+This spyware for educutional purpose , for that i am not  responsible for   any bad use of this app.  this spyware takes a form of keylogger ,it collects all keys strokes of target  ,Screenshot local ip , public ip in addition into a link the gives you more information about the target like contry , city laltitude , longitude ,isp , region name ,time zone and zip. 
 
 # how i use this files ?
 
