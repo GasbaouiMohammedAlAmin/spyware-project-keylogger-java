@@ -26,3 +26,5 @@ the window starts for configuring the email sender  , password email sender ,
 email reciever and determinte the number of max char that you want to send it into email. after you save the changes close the window and
 to begin the spying tap this command
 + java -jar keyLogger.jar
+
+video explanation : https://www.youtube.com/watch?v=Yr7dqTRMddc&list=PLl3OIRTkEk3OI-_GfVj2qNCCXTS5A0DzS
